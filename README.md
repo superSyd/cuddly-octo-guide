@@ -1,4 +1,4 @@
-# [Sudoku Solver](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/sudoku-solver)
+# [Sudoku Solver Project](https://boilerplate-project-sudoku-solver.supersyd.repl.co/)
 Test Cases
 - You can POST /api/solve with form data containing puzzle which will be a string containing a combination of numbers (1-9) and periods . to represent empty spaces. The returned object will contain a solution property with the solved puzzle.
 - If the object submitted to /api/solve is missing puzzle, the returned value will be { error: 'Required field missing' }
